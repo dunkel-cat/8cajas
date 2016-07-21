@@ -1,0 +1,32 @@
+div{
+	width: 100px;
+	height: 100px;
+	background:#F5A9A9;
+	color:#fff;
+	font-size: 20px;
+	position: center;
+	margin:10px;
+}
+.cajita_master{
+	width: 400px;
+	height: 120px;
+	background: #FE2EC8;
+	position: relative;
+}
+.first{
+	display: inline-block;
+}
+.second{
+	display: inline-block;
+}
+.third{
+	display: inline-block;
+
+}
+.fourth{
+	display: inline-block;
+
+}
+.fifth{
+	display: inline-block;
+}
